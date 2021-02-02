@@ -8,4 +8,4 @@ Comment utiliser l'application ?
 
 Vous avez maintenant telecharge le fichier audio du lien Youtube fournit en entree
 
-Important: N'oubliez pas de telecharger le fichier logo pour pouvoir lancer le script.
+# Important: N'oubliez pas de telecharger le fichier logo pour pouvoir lancer le script.
