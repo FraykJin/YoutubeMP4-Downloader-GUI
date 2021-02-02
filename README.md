@@ -7,3 +7,5 @@ Comment utiliser l'application ?
 3) Cliquez sur le bouton "Download" 
 
 Vous avez maintenant telecharge le fichier audio du lien Youtube fournit en entree
+
+Important: N'oublier pas de telecharger le fichier logo pour pouvoir lancer le script.
